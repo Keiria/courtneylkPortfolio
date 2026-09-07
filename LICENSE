@@ -1,0 +1,64 @@
+Copyright (c) 2026 Courtney Lewis-Kroodsma
+
+This repository contains two different kinds of material, under two different terms.
+
+
+1. SITE CODE — MIT License
+-------------------------------------------------------------------------------
+
+The HTML, CSS, and configuration files that make up this website (index.html,
+style.css, and similar structural files) are released under the MIT License:
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+2. PORTFOLIO CONTENT — All Rights Reserved
+-------------------------------------------------------------------------------
+
+All portfolio content is Copyright (c) 2026 Courtney Lewis-Kroodsma.
+All rights reserved. This includes, without limitation:
+
+  - eLearning courses and modules, including everything under courses/
+  - instructional and course design, structure, and sequencing
+  - written copy, case studies, and project descriptions
+  - images, graphics, illustrations, video, and audio
+  - voiceover recordings and scripts
+  - resume and biographical content
+
+This material is published for the purpose of demonstrating professional work.
+It may not be copied, reproduced, republished, modified, distributed, or used to
+train machine learning models without prior written permission.
+
+Viewing the material and linking to it are welcome.
+
+
+Note on GitHub
+-------------------------------------------------------------------------------
+
+This repository is public. Under GitHub's Terms of Service, other GitHub users
+may view and fork public repositories regardless of the license applied here.
+"All rights reserved" limits what may lawfully be done with the content; it does
+not disable GitHub's own platform features.
+
+
+Third-party material
+-------------------------------------------------------------------------------
+
+Fonts are served by Google Fonts under the SIL Open Font License and are not
+covered by the terms above. Any other third-party asset included in this
+repository retains its own license, noted alongside the asset.
