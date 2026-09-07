@@ -1,0 +1,275 @@
+:root {
+  --mighty-theme-color: #577a7d;
+  --mighty-color-style-vYE_0EF-PkjjI8gKzTzq1: #18A125;
+}
+
+/* Type Style: display */
+.mighty-type-style-display {
+
+    font-family: "Lato" !important;
+    --mighty-font-family: "Lato" !important;
+
+
+
+
+
+
+
+
+}
+
+@media (min-width: 1280px) {
+.mighty-type-style-display {
+    font-size: 48px;
+}
+}
+
+@media (min-width: 600px) and (max-width: 1279px) {
+.mighty-type-style-display {
+    font-size: 42px;
+}
+}
+
+@media (max-width: 599px) {
+.mighty-type-style-display {
+    font-size: 36px;
+}
+}
+
+
+/* Type Style: heading-large */
+.mighty-type-style-heading-large {
+
+    font-family: "Lato" !important;
+    --mighty-font-family: "Lato" !important;
+
+
+
+
+
+
+
+
+}
+
+@media (min-width: 1280px) {
+.mighty-type-style-heading-large {
+    font-size: 32px;
+}
+}
+
+@media (min-width: 600px) and (max-width: 1279px) {
+.mighty-type-style-heading-large {
+    font-size: 29px;
+}
+}
+
+@media (max-width: 599px) {
+.mighty-type-style-heading-large {
+    font-size: 27px;
+}
+}
+
+
+/* Type Style: heading */
+.mighty-type-style-heading {
+
+    font-family: "Lato" !important;
+    --mighty-font-family: "Lato" !important;
+
+
+
+
+
+
+
+
+}
+
+@media (min-width: 1280px) {
+.mighty-type-style-heading {
+    font-size: 28px;
+}
+}
+
+@media (min-width: 600px) and (max-width: 1279px) {
+.mighty-type-style-heading {
+    font-size: 27px;
+}
+}
+
+@media (max-width: 599px) {
+.mighty-type-style-heading {
+    font-size: 26px;
+}
+}
+
+
+/* Type Style: subheading */
+.mighty-type-style-subheading {
+
+    font-family: "Lato" !important;
+    --mighty-font-family: "Lato" !important;
+
+
+
+
+
+
+
+
+}
+
+@media (min-width: 1280px) {
+.mighty-type-style-subheading {
+    font-size: 18px;
+}
+}
+
+@media (min-width: 600px) and (max-width: 1279px) {
+.mighty-type-style-subheading {
+    font-size: 17px;
+}
+}
+
+@media (max-width: 599px) {
+.mighty-type-style-subheading {
+    font-size: 17px;
+}
+}
+
+
+/* Type Style: body */
+.mighty-type-style-body {
+
+    font-family: "Merriweather" !important;
+    --mighty-font-family: "Merriweather" !important;
+
+
+
+
+
+
+
+
+}
+
+@media (min-width: 1280px) {
+.mighty-type-style-body {
+    font-size: 18px;
+}
+}
+
+@media (min-width: 600px) and (max-width: 1279px) {
+.mighty-type-style-body {
+    font-size: 17px;
+}
+}
+
+@media (max-width: 599px) {
+.mighty-type-style-body {
+    font-size: 17px;
+}
+}
+
+
+/* Type Style: body-small */
+.mighty-type-style-body-small {
+
+    font-family: "Merriweather" !important;
+    --mighty-font-family: "Merriweather" !important;
+
+
+
+
+
+
+
+
+}
+
+@media (min-width: 1280px) {
+.mighty-type-style-body-small {
+    font-size: 16px;
+}
+}
+
+@media (min-width: 600px) and (max-width: 1279px) {
+.mighty-type-style-body-small {
+    font-size: 16px;
+}
+}
+
+@media (max-width: 599px) {
+.mighty-type-style-body-small {
+    font-size: 16px;
+}
+}
+
+
+/* Type Style: micro */
+.mighty-type-style-micro {
+
+    font-family: "Lato" !important;
+    --mighty-font-family: "Lato" !important;
+
+
+
+
+
+
+
+
+}
+
+@media (min-width: 1280px) {
+.mighty-type-style-micro {
+    font-size: 16px;
+}
+}
+
+@media (min-width: 600px) and (max-width: 1279px) {
+.mighty-type-style-micro {
+    font-size: 16px;
+}
+}
+
+@media (max-width: 599px) {
+.mighty-type-style-micro {
+    font-size: 16px;
+}
+}
+
+
+/* Type Style: button */
+.mighty-type-style-button {
+
+    font-family: "Lato" !important;
+    --mighty-font-family: "Lato" !important;
+
+
+
+
+
+letter-spacing: 0.5px;
+text-transform: uppercase;
+
+}
+
+@media (min-width: 1280px) {
+.mighty-type-style-button {
+    font-size: 12px;
+}
+}
+
+@media (min-width: 600px) and (max-width: 1279px) {
+.mighty-type-style-button {
+    font-size: 12px;
+}
+}
+
+@media (max-width: 599px) {
+.mighty-type-style-button {
+    font-size: 12px;
+}
+}
